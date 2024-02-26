@@ -19,3 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 ## link para drawer 
 https://api.flutter.dev/flutter/widgets/ListView-class.html
+
+## imagenes de programa
+![image](https://github.com/Yadier-Gonzalez-Graciano/act9-Drawer-Mejorado/assets/143548098/733cb02f-4ffb-42cc-8a03-3e06cea13da0)
+![image](https://github.com/Yadier-Gonzalez-Graciano/act9-Drawer-Mejorado/assets/143548098/8c1f33ad-162b-414c-b9d5-da0960e37bf9)
+
+## link de informacion
+https://codesinsider.com/flutter-appbar-example-tutorial/
+https://appmaking.com/flutter-drawer-example/
